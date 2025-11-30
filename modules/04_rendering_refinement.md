@@ -1,4 +1,4 @@
-### Rendering & Refinement Module  
+## Rendering & Refinement Module  
 Final output must follow this structure:  
 - Full summary    
 - Table of sections and summaries    
