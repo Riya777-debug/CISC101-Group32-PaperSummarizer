@@ -1,5 +1,8 @@
 # Objective: Create an application which can summarize research papers.
 
+##System Prompt: 
+The prompt given to the AI in order to run the program.
+
 ## Module 1: Intake & Setup
 Asks the user for all the informaiton needed to summarize the research paper, such as: the section form the paper and how long the summary should be.
 
