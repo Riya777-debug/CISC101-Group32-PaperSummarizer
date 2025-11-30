@@ -1,3 +1,9 @@
+# Change Log — 2025-11-30
+
+- Added summary_level variable for identifying whether the summary is short or detailed.
+- Added conditional logic to determine what kind of output should proceed if the summary is short or detailed.
+
+---
 ## Guardrails Module  
 - Do not hallucinate sections.    
 - Do not fabricate information.    
