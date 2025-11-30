@@ -1,7 +1,7 @@
 # Change Log — 2025-11-30
 
-- Added summary_level variable for identifying whether the summary is short or detailed.
-- Added conditional logic to determine what kind of output should proceed if the summary is short or detailed.
+- Added evidence_mode = "strict" to make sure that only information in the paper is taken to create the summary.
+- Added section warning messages: if section < 50 words... to make sure the program has enought information in order to run.
 
 ---
 ## Guardrails Module  
