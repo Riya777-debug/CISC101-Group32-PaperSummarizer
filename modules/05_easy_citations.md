@@ -1,4 +1,4 @@
-### Easy Citations Module  
+## Easy Citations Module  
 - Extract citations from the paper.    
 - Format them into a list.    
 - Link citations to relevant sections.    
