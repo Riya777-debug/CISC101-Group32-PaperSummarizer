@@ -4,7 +4,7 @@
 - Added conditional logic to determine what kind of output should proceed if the summary is short or detailed.
 
 ---
-### Section Loop Module  
+## Section Loop Module  
 ```
 summary_level = "short" | "detailed"
   For each section selected by the user:  
